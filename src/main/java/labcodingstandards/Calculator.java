@@ -106,7 +106,7 @@ public class Calculator {
 	    testMethod(a, b);   // OK
 	    testMethod(x,y);    // violation
 
-	    for(;;) {} // OK
+	    
 	}
 
 	private void testMethod(int a, int b) {
